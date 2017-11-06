@@ -1,4 +1,4 @@
-# shuffle.ts
+# shuffle.ts &middot; [![npm](https://img.shields.io/npm/v/shuffle.ts.svg?style=flat-square)](https://www.npmjs.com/package/shuffle.ts)
 
 Shuffle an Array in TypeScript
 

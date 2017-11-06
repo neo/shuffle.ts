@@ -1,6 +1,6 @@
 {
   "name": "shuffle.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shuffle an Array in TypeScript",
   "main": "index.ts",
   "repository": {
