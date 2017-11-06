@@ -1,0 +1,22 @@
+{
+  "name": "shuffle.ts",
+  "version": "1.0.0",
+  "description": "Shuffle an Array in TypeScript",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo/shuffle.ts.git"
+  },
+  "keywords": [
+    "shuffle array",
+    "TypeScript",
+    "shuffle",
+    "ts"
+  ],
+  "author": "Neo <neo.li@jam3.com> (https://github.com/neo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neo/shuffle.ts/issues"
+  },
+  "homepage": "https://github.com/neo/shuffle.ts#readme"
+}
